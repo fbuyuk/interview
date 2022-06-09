@@ -1,0 +1,8 @@
+.link {
+  display: block;
+  padding: 1.25rem;
+}
+
+.active {
+  background-color: #5d5d5d;
+}

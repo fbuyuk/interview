@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'SF Pro Display';
+  src: local('SF Pro Display'),
+    url('./fonts/SFProDisplay/SFProDisplayBold.ttf') format('truetype');
+  font-weight: bold;
+}
